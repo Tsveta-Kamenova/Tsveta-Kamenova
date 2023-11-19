@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tsveta Kamenova</h1>
-<h3 align="center">A passionate QA specialist wannabe</h3>
+<!--<h3 align="center">A passionate QA specialist wannabe</h3>-->
 
 - 🔭 I’m currently working on **getting better every day**
 
