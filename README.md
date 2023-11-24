@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything, it's already empty**
 
-- 📫 How to reach me **tsvetikamenova89@gmail.com**
+- 📫 How to reach me **tsv.kamenova@gmail.com**
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tsveta-kamenova&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tsveta-kamenova&langs_count=5&theme=tokyonight)]()
