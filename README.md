@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **getting better every day**
 
-- 🌱 I’m currently learning **Automation QA**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 💬 Ask me about **anything, it's already empty**
 
