@@ -17,7 +17,7 @@
 ### 🌐 Portfolio & Projects
 
 - 📊 [Tableau Dashboard](https://public.tableau.com/views/Portfolio_17545771211020/SalesDashboard)
-- 🌐 [Carrd Portfolio](https://tsveta-analytics.carrd.co)
+- 🌐 [Carrd Portfolio](https://tsvetakamenovabikesales.carrd.co)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tsveta-kamenova-b64739120/)
 
 
