@@ -16,16 +16,16 @@
 
 ### 🌐 Portfolio & Projects
 
-- 📊 [Tableau Dashboard](https://public.tableau.com/views/Portfolio_17545771211020/SalesDashboard)
-- 🌐 [Carrd Portfolio](https://tsvetakamenovabikesales.carrd.co)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tsveta-kamenova-b64739120/)
+- 📊 [Tableau Dashboard - Bike Sales](https://public.tableau.com/views/Portfolio_17545771211020/SalesDashboard)
+- 🌐 [Carrd Portfolio - Bike Sales](https://tsvetakamenovabikesales.carrd.co)
+- 📊 [Kaggle LA Crime](https://www.kaggle.com/code/tsvetakamenovay/la-crime-tsveta-kamenova)
+
 
 
 ### 📬 Reach Me
 
 - 📧 Email: [tsv.kamenova@gmail.com](mailto:tsv.kamenova@gmail.com)
 - 💼 LinkedIn: [Tsveta Kamenova](https://www.linkedin.com/in/tsveta-kamenova-b64739120/)
-- 💻 GitHub: [tsveta-kamenova](https://github.com/tsveta-kamenova)
 
 ---
 
