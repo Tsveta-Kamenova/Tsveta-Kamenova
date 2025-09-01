@@ -16,7 +16,7 @@
 
 ### 🌐 Portfolio & Projects
 
-- 📊 [Power Pivot – Maven Electronics](https://github.com/Tsveta-Kamenova/15min-Power-Pivot)
+- 📊 [Power Pivot – Maven Electronics](https://github.com/Tsveta-Kamenova/15min-Power-Pivot) / [Excel Power Pivot Practice Project](https://github.com/Tsveta-Kamenova/Power-Pivot-Intro)
 - 📊 [Tableau Dashboard - Bike Sales](https://public.tableau.com/views/Portfolio_17545771211020/SalesDashboard)
 - 🌐 [Carrd Portfolio - Bike Sales](https://tsvetakamenovabikesales.carrd.co)
 - 📊 [Kaggle LA Crime (Jupyter)](https://www.kaggle.com/code/tsvetakamenovay/la-crime-tsveta-kamenova)
