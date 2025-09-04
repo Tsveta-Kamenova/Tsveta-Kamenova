@@ -1,36 +1,37 @@
-<h1 align="center">Hi 👋, I'm Tsveta Kamenova</h1>
+<h1 align="center">Hi, I'm Tsveta Kamenova</h1>
 <p align="center">
 📊 Aspiring Data & BI Analyst | Structured Thinker | Lifelong Learner | Driven by clarity & insight
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 📈 Transitioning into **Data & Business Intelligence Analysis**
-- 🧠 Learning and building skills in **SQL, Tableau, Power BI, Python, and Excel**
-- 🎯 Strong background in **structured data, QA, and process optimization**
-- 🛠️ Comfortable with both **independent deep-dives** and **team collaboration**
-- 📚 Currently developing portfolio dashboards & exploring real-world datasets
+### About Me
 
 
-### 🌐 Portfolio & Projects
+- Interested in **Data & Business Intelligence Analysis**
+- Learning and building skills in **SQL, Tableau, Power BI, Python, and Excel**
+- Developing knowledge in **structured data, data modeling, ETL, and process optimization**
+- Comfortable with both **independent deep-dives** and **team collaboration**
+- Currently working on **data pipelines** and portfolio **dashboards**, while exploring **real-world datasets**
 
-- 📊 [Power Pivot – Maven Electronics](https://github.com/Tsveta-Kamenova/15min-Power-Pivot) / [Excel Power Pivot Practice Project](https://github.com/Tsveta-Kamenova/Power-Pivot-Intro)
-- 📊 [Tableau Dashboard - Bike Sales](https://public.tableau.com/views/Portfolio_17545771211020/SalesDashboard)
-- 🌐 [Carrd Portfolio - Bike Sales](https://tsvetakamenovabikesales.carrd.co)
-- 📊 [Kaggle LA Crime (Jupyter)](https://www.kaggle.com/code/tsvetakamenovay/la-crime-tsveta-kamenova)
-- 📊 [Kaggle Matplotlib Exercise (Jupyter)](https://www.kaggle.com/code/tsvetakamenovay/matplotlib-exercise)
+
+### Portfolio & Projects
+
+- 📊 [Power BI - Dashboards](https://github.com/Tsveta-Kamenova/AdventureWorks)
+- 📊 [Tableau Dashboard - Bike Sales](https://public.tableau.com/views/Portfolio_17545771211020/SalesDashboard) / [Carrd](https://tsvetakamenovabikesales.carrd.co)
+- 📊 [Power Pivot – Maven Electronics](https://github.com/Tsveta-Kamenova/15min-Power-Pivot) / [Excel Power Pivot Project](https://github.com/Tsveta-Kamenova/Power-Pivot-Intro)
+- 📊 [Python LA Crime (Jupyter)](https://www.kaggle.com/code/tsvetakamenovay/la-crime-tsveta-kamenova)
+- 📊 [Python Matplotlib Exercise (Jupyter)](https://www.kaggle.com/code/tsvetakamenovay/matplotlib-exercise)
 
 
 ### 📬 Reach Me
 
-- 📧 Email: [tsv.kamenova@gmail.com](mailto:tsv.kamenova@gmail.com)
-- 💼 LinkedIn: [Tsveta Kamenova](https://www.linkedin.com/in/tsveta-kamenova-b64739120/)
+- Email: [tsv.kamenova@gmail.com](mailto:tsv.kamenova@gmail.com)
+- LinkedIn: [Tsveta Kamenova](https://www.linkedin.com/in/tsveta-kamenova-b64739120/)
 
 ---
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 <p align="left">
   <!-- Core BI/Data Tools -->
