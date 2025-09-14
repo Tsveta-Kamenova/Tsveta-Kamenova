@@ -17,7 +17,7 @@
 
 ### Portfolio & Projects
 
-- 📊 [Power BI - Dashboards](https://github.com/Tsveta-Kamenova/AdventureWorks)
+- 📊 [Power BI - Adventure Works Dashboards](https://github.com/Tsveta-Kamenova/AdventureWorks)
 - 📊 [Tableau Dashboard - Bike Sales](https://public.tableau.com/views/Portfolio_17545771211020/SalesDashboard) / [Carrd](https://tsvetakamenovabikesales.carrd.co)
 - 📊 [Power Pivot – Maven Electronics](https://github.com/Tsveta-Kamenova/15min-Power-Pivot) / [Excel Power Pivot Project](https://github.com/Tsveta-Kamenova/Power-Pivot-Intro)
 - 📊 [Python LA Crime (Jupyter)](https://www.kaggle.com/code/tsvetakamenovay/la-crime-tsveta-kamenova)
