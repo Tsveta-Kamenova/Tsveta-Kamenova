@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tsveta Kamenova</h1>
 <p align="center">
-📊 Aspiring Data & BI Analyst | Structured Thinker | Lifelong Learner | Driven by clarity & insight
+📊 Aspiring Data & BI Analyst | 🔧 Exploring ETL & dbt | Lifelong Learner | Driven by clarity & insight
 </p>
 
 ---
@@ -8,8 +8,8 @@
 ### About Me
 
 
-- Interested in **Data & Business Intelligence Analysis**
-- Learning and building skills in **SQL, Tableau, Power BI, Python, and Excel**
+- Interested in **Data & Business Intelligence Analysis and Engineering**
+- Learning and building skills in **SQL, DBT, Snowflake, Tableau, Power BI, Python, and Excel**
 - Developing knowledge in **structured data, data modeling, ETL, and process optimization**
 - Comfortable with both **independent deep-dives** and **team collaboration**
 - Currently working on **data pipelines** and portfolio **dashboards**, while exploring **real-world datasets**
@@ -17,11 +17,12 @@
 
 ### Portfolio & Projects
 
+- ❄️ [DBT & Snowflake - Airbnb data flow ](https://github.com/Tsveta-Kamenova/airbnb-dbt-pipeline)
 - 📊 [Power BI - Adventure Works Dashboards](https://github.com/Tsveta-Kamenova/AdventureWorks)
-- 📊 [Tableau Dashboard - Bike Sales](https://public.tableau.com/views/Portfolio_17545771211020/SalesDashboard) / [Carrd](https://tsvetakamenovabikesales.carrd.co)
-- 📊 [Power Pivot – Maven Electronics](https://github.com/Tsveta-Kamenova/15min-Power-Pivot) / [Excel Power Pivot Project](https://github.com/Tsveta-Kamenova/Power-Pivot-Intro)
-- 📊 [Python LA Crime (Jupyter)](https://www.kaggle.com/code/tsvetakamenovay/la-crime-tsveta-kamenova)
-- 📊 [Python Matplotlib Exercise (Jupyter)](https://www.kaggle.com/code/tsvetakamenovay/matplotlib-exercise)
+- 📈 [Tableau Dashboard - Bike Sales](https://public.tableau.com/views/Portfolio_17545771211020/SalesDashboard) / [Carrd](https://tsvetakamenovabikesales.carrd.co)
+- 🧮 [Power Pivot – Maven Electronics](https://github.com/Tsveta-Kamenova/15min-Power-Pivot) / [Excel Power Pivot Project](https://github.com/Tsveta-Kamenova/Power-Pivot-Intro)
+- 📓🐍 [Python LA Crime (Jupyter)](https://www.kaggle.com/code/tsvetakamenovay/la-crime-tsveta-kamenova)
+- 📓🐍 [Python Matplotlib Exercise (Jupyter)](https://www.kaggle.com/code/tsvetakamenovay/matplotlib-exercise)
 
 
 ### 📬 Reach Me
@@ -38,51 +39,14 @@
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/dbt-FF796C?style=for-the-badge&logo=dbt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SPSS-009FDA?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Askia-005EB8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Q%20(DisplayR)-004B87?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Snowflake-Blue?style=for-the-badge&logo=snowflake&logoColor=white"/>
   <img src="https://img.shields.io/badge/AutoCAD-E44726?style=for-the-badge&logo=autodesk&logoColor=white"/>
-</p>
-
-  <!-- Your existing stack -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Q%20(DisplayR)-004B87?style=for-the-badge"/>
 </p>
 
 ### 📊 GitHub Stats
