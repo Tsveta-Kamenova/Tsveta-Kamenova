@@ -17,6 +17,7 @@
 
 ### Portfolio & Projects
 
+- 🔶 [DBT & BigQuery - Migrate On-Prem to Cloud SQL - Setup OLAP](https://github.com/Tsveta-Kamenova/analytics-engineering-bootcamp)
 - ❄️ [DBT & Snowflake - Airbnb data flow ](https://github.com/Tsveta-Kamenova/airbnb-dbt-pipeline)
 - 📊 [Power BI - Adventure Works Dashboards](https://github.com/Tsveta-Kamenova/AdventureWorks)
 - 📊 [Power BI - Representative Monitoring - Compliance and Coverage](https://github.com/Tsveta-Kamenova/Representative-Monitoring)
